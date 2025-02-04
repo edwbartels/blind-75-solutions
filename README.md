@@ -1,4 +1,4 @@
-# Problem Set via neetcode.io <span style='font-size: 14px'>(Updated February 4, 2025)</span>
+**_Problem Set via neetcode.io_**
 
 ## Arrays & Hashing
 
@@ -38,6 +38,8 @@
 - Merge Two Sorted Lists
 - Linked List Cycle
 - Reorder List
+- Remove Nth Node from End of List
+  - Python
 
 ## Trees
 
