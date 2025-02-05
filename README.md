@@ -20,13 +20,9 @@
 ## Two Pointers
 
 - Valid Palindrome
-
   - Python
-
 - 3Sum
-
   - Python
-
 - Container With Most Water
   - Python
 
