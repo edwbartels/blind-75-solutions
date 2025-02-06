@@ -18,8 +18,10 @@ class Solution:
 
             lft = node.left
             rgt = node.right
+
             node.left = rgt
             node.right = lft
+
             dfs(node.left)
             dfs(node.right)
 

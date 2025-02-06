@@ -68,6 +68,8 @@
 
 - Invert Binary Tree
   - Python
+- Maximum Depth of Binary Tree
+  - Python
 
 ## Heap / Priority Queue
 
