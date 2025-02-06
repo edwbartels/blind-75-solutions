@@ -61,6 +61,8 @@
   - Python
 - Remove Nth Node from End of List
   - Python
+- Remove K Sorted Lists
+  - Python
 
 ## Trees
 
