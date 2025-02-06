@@ -66,6 +66,9 @@
 
 ## Trees
 
+- Invert Binary Tree
+  - Python
+
 ## Heap / Priority Queue
 
 ## Backtracking
