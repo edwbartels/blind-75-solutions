@@ -70,6 +70,8 @@
   - Python
 - Maximum Depth of Binary Tree
   - Python
+- Same Binary Tree
+  - Python
 
 ## Heap / Priority Queue
 
