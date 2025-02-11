@@ -74,6 +74,8 @@
   - Python
 - Subtree of Another Tree
   - Python
+- Lowest Common Ancestor in Binary Tree
+  - Python
 
 ## Heap / Priority Queue
 
